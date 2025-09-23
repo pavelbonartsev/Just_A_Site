@@ -3,14 +3,15 @@
     place-items: end;
   }
 body {
-    background-color: #3f7300; /* Цвет фона */
-    font-family: Arial, sans-serif; /* Шрифт */
-    color: #333; /* Цвет текста */
-    line-height: 1.6; /* Высота строки */
+    background-color: #3f7300; 
+    font-family: Arial, sans-serif;
+    color: #333; 
+    line-height: 1.6; 
     margin: 0;
 }
 
 ol{
+    margin: "0px 40px 0px 40px";
     display: grid;
     place-items: end;
   }
@@ -27,8 +28,8 @@ li{
 }
 h1 {
     font-family: 'Arial', sans-serif;
-    font-size: 2em; /* Размер заголовка */
-    color: #191313; /* Цвет заголовка */
+    font-size: 2em; 
+    color: #191313; 
 }
 .txt{
     font-family: 'franklin gothic medium';
@@ -45,7 +46,7 @@ h3{
     text-align: right;
 }
 main {
-    padding: 20px; /* Отступы основного текста */
+    padding: 20px; 
 }
 .museum{
     src: "c:\Users\user\Desktop\images\27869988_13954.jpg";
@@ -57,22 +58,25 @@ main {
     text-align: right;
 }
 p {
+    margin: "0px 40px 0px 40px";
     color: #191313;
     align: justify;
-    margin: 15px 0; /* Отступы для параграфов */
+    margin: 15px 0; 
 }
 ul {
-    list-style-type: disc; /* Стиль перечислений */
-    margin-left: 20px; /* Отступ для списка */
+    margin: "0px 40px 0px 40px";
+    list-style-type: disc;
+    margin-left: 20px; 
 }
 a {
-    color: #0108cfef; /* Цвет ссылок */
-    text-decoration: none; /* Убираем подчеркивание */
+    color: #0108cfef; 
+    text-decoration: none; 
 }
 a:hover {
-    text-decoration: underline; /* Подчеркивание при наведении */
+    text-decoration: underline; 
 }
 footer {
-    text-align: center; /* Выравнивание нижнего колонтитула */
+    text-align: center; 
     padding: 10px;
+
 }
