@@ -1,0 +1,78 @@
+.a {
+    display: grid;
+    place-items: end;
+  }
+body {
+    background-color: #3f7300; /* Цвет фона */
+    font-family: Arial, sans-serif; /* Шрифт */
+    color: #333; /* Цвет текста */
+    line-height: 1.6; /* Высота строки */
+    margin: 0;
+}
+
+ol{
+    display: grid;
+    place-items: end;
+  }
+
+div{
+    text-align: right;
+}
+header {
+    text-align: center; /* Выравнивание заголовка */
+    padding: 20px;
+}
+li{
+    color: #191313;
+}
+h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2em; /* Размер заголовка */
+    color: #191313; /* Цвет заголовка */
+}
+.txt{
+    font-family: 'franklin gothic medium';
+}
+.mailto{
+    href: "mailto:student4321@sch192.net";
+}
+h2{
+    color: #191313;
+    text-align: right;
+}
+h3{
+    color: #191313;
+    text-align: right;
+}
+main {
+    padding: 20px; /* Отступы основного текста */
+}
+.museum{
+    src: "c:\Users\user\Desktop\images\27869988_13954.jpg";
+}
+.class1{
+    text-align: left;
+}
+.class2{
+    text-align: right;
+}
+p {
+    color: #191313;
+    align: justify;
+    margin: 15px 0; /* Отступы для параграфов */
+}
+ul {
+    list-style-type: disc; /* Стиль перечислений */
+    margin-left: 20px; /* Отступ для списка */
+}
+a {
+    color: #0108cfef; /* Цвет ссылок */
+    text-decoration: none; /* Убираем подчеркивание */
+}
+a:hover {
+    text-decoration: underline; /* Подчеркивание при наведении */
+}
+footer {
+    text-align: center; /* Выравнивание нижнего колонтитула */
+    padding: 10px;
+}
