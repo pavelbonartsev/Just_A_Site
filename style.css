@@ -11,7 +11,7 @@ body {
 }
 
 ol{
-    margin: "0px 40px 0px 40px";
+    margin: 0px 40px 0px 40px;
     display: grid;
     place-items: end;
   }
@@ -58,13 +58,13 @@ main {
     text-align: right;
 }
 p {
-    margin: "0px 40px 0px 40px";
+    margin: 0px 40px 0px 40px;
     color: #191313;
     align: justify;
     margin: 15px 0; 
 }
 ul {
-    margin: "0px 40px 0px 40px";
+    margin: 0px 40px 0px 40px;
     list-style-type: disc;
     margin-left: 20px; 
 }
@@ -80,3 +80,4 @@ footer {
     padding: 10px;
 
 }
+
