@@ -27,6 +27,7 @@ li{
     color: #191313;
 }
 h1 {
+    margin: 0px 40px 0px 40px;
     font-family: 'Arial', sans-serif;
     font-size: 2em; 
     color: #191313; 
@@ -38,10 +39,12 @@ h1 {
     href: "mailto:student4321@sch192.net";
 }
 h2{
+    margin: 0px 40px 0px 40px;
     color: #191313;
     text-align: right;
 }
 h3{
+    margin: 0px 40px 0px 40px;
     color: #191313;
     text-align: right;
 }
@@ -80,4 +83,5 @@ footer {
     padding: 10px;
 
 }
+
 
