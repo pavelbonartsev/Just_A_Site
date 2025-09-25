@@ -4,14 +4,21 @@
   }
 body {
     background-color: #3f7300; 
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; 
     color: #333; 
     line-height: 1.6; 
     margin: 0;
 }
-
-ol{
-    margin: 0px 40px 0px 40px;
+.image2{
+    width: 500px;
+    height: 350px;
+}
+.image3{
+    width: 500px;
+    height: 350px;
+}
+ol{ 
+    margin: 0px 40px 0px 40px; 
     display: grid;
     place-items: end;
   }
@@ -20,39 +27,30 @@ div{
     text-align: right;
 }
 header {
-    text-align: center; /* Выравнивание заголовка */
+    text-align: center;
     padding: 20px;
 }
 li{
     color: #191313;
 }
 h1 {
-    margin: 0px 40px 0px 40px;
+    margin: 0px 40px 0px 40px; 
     font-family: 'Arial', sans-serif;
     font-size: 2em; 
     color: #191313; 
 }
-.txt{
-    font-family: 'franklin gothic medium';
-}
-.mailto{
-    href: "mailto:student4321@sch192.net";
-}
 h2{
-    margin: 0px 40px 0px 40px;
+    margin: 0px 40px 0px 40px; 
     color: #191313;
     text-align: right;
 }
 h3{
-    margin: 0px 40px 0px 40px;
+    margin: 0px 40px 0px 40px; 
     color: #191313;
     text-align: right;
 }
 main {
     padding: 20px; 
-}
-.museum{
-    src: "c:\Users\user\Desktop\images\27869988_13954.jpg";
 }
 .class1{
     text-align: left;
@@ -61,15 +59,18 @@ main {
     text-align: right;
 }
 p {
-    margin: 0px 40px 0px 40px;
-    color: #191313;
-    align: justify;
-    margin: 15px 0; 
+    color: #000000;
+    margin: 0px 40px 0px 40px; 
+}
+u{
+    text-align: left;
+    font-family: 'franklin gothic medium';
+    font-size: 20px;
 }
 ul {
-    margin: 0px 40px 0px 40px;
-    list-style-type: disc;
-    margin-left: 20px; 
+    margin: 0px 40px 0px 40px; 
+    list-style-type: disc; 
+    margin-left: 20px;
 }
 a {
     color: #0108cfef; 
@@ -81,7 +82,4 @@ a:hover {
 footer {
     text-align: center; 
     padding: 10px;
-
 }
-
-
